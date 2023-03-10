@@ -1,4 +1,4 @@
-#Introduction
+
 
 - 👋 Hello. My name is Noor.
 - 🔭 I’m currently working on various projects to improve my Data Analysis and Data Visualisation skills
