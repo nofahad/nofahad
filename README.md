@@ -1,16 +1,26 @@
-### Hi there 👋
+#Introduction
 
-<!--
-**nofahad/nofahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hello. My name is Noor.
+- 🔭 I’m currently working on various projects to improve my Data Analysis and Data Visualisation skills
+- 🌱 I’m interested in Data Analysis & Visualisation 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noorulain-fahad/)
+- 😄 Pronouns: She/Her
 
-Here are some ideas to get you started:
+Competency Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Project Management
+- Highly Organised
+- Attention to Detail
+- Complex Problem Solving
+- Structured Thinking
+- Time Management
+- Collaborative Working
+- Taking initiative
+
+Technical Skills:
+
+- Mathematical Modelling, Simulation and Design
+- Java, JavaScript, HTML, CSS, Matlab
+- SQL, R, Python
+- Power BI, Tableau, Excel, Google sheets
+- Big Query, MySQL, SSMS
