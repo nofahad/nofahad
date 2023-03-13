@@ -1,6 +1,6 @@
 
 
-- 👋 Hello. My name is Noor.
+- 👋 Hello. My name is Noorulain. 
 - 🔭 I’m currently working on various projects to improve my Data Analysis and Data Visualisation skills
 - 🌱 I’m interested in Data Analysis & Visualisation 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noorulain-fahad/)
