@@ -9,7 +9,6 @@
 Competency Skills:
 
 - Project Management
-- Highly Organised
 - Attention to Detail
 - Complex Problem Solving
 - Structured Thinking
@@ -24,3 +23,4 @@ Technical Skills:
 - SQL, R, Python
 - Power BI, Tableau, Excel, Google sheets
 - Big Query, MySQL, SSMS
+- Technical Documentation & Reporting
